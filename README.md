@@ -1,7 +1,7 @@
-![](https://media.giphy.com/media/4QkiIdlJXvGPC/giphy.gif)  
+![](https://github.com/mohammadAliMkh/mohammadAliMkh/blob/main/giphy.gif)  
 
 # About me
-My name is **Mohammad Ali Mohammadkhani** (long name I know 😄)  
+My name is **Mohammad Ali Mohammadkhani** ( long name I know =) )  
 #
 **Bcs** In Computer Engineering  
 **Msc** In Artificial Intellingece  
