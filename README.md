@@ -10,7 +10,7 @@ My name is **Mohammad Ali Mohammadkhani**
   
 
 # 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammadali-mohammadkhani) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/Mamki434)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadali-mohammadkhani/) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/Mamki434)   
 # 💻Tech Stack
 ### Programming languages
 ![Python](https://img.shields.io/badge/Python-%2300599?style=for-the-badge&color=red) ![Java](https://img.shields.io/badge/Java-%2300599?style=for-the-badge&color=blue) ![C/C++](https://img.shields.io/badge/C/C++-%2300599?style=for-the-badge) ![Matlab](https://img.shields.io/badge/Matlab-%2300599?style=for-the-badge&color=black)  
