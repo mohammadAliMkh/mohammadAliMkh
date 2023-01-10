@@ -1,14 +1,15 @@
 ![](https://github.com/mohammadAliMkh/mohammadAliMkh/blob/main/giphy.gif)  
 
 # 👨‍💻About me
-My name is **Mohammad Ali Mohammadkhani**  
-#
--**Bcs** In Computer Engineering  
--**Msc** In Artificial Intellingece  
--Machine Learning, Deep Learning & Computer Vision Eng  
--Android Developer  
+**Name:**  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B15F7&repeat=true&width=435&lines=Mohammad+Ali+Mohammadkhani" alt="Typing SVG" /></a>  
+**Education:**  
+  -**Bcs** In Computer Engineering  
+  -**Msc** In Artificial Intelligence  
   
-
+**Interests:**  
+  -Machine Learning, Deep Learning & Computer Vision  
+  -Android Development  
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadali-mohammadkhani/) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/Mamki434)   
 # 💻Tech Stack
